@@ -1,5 +1,5 @@
 import openai
-api_key = 'API KEY'
+api_key = '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'
 openai.api_key = api_key
 
 def chat_with_bot(user_message):
